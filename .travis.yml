@@ -1,0 +1,5 @@
+language: cpp
+os: osx
+osx_image: xcode9.3
+script: cd gradle && ./gradlew build_all
+

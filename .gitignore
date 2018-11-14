@@ -5,6 +5,7 @@
 !*.mm
 !*.txt
 !*.md
+!*.yml
 !.gitignore
 !.gitmodules
 !gradle/*
